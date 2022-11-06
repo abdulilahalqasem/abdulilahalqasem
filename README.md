@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, my name is Abdulilah </h1>
 
-<h3 align="center"> A passinote Machine Learning from Riyadh Saudi Arabia </h3>
+<h3 align="center"> A passionate Machine Learning from Riyadh Saudi Arabia </h3>
 
 <br/>
 
