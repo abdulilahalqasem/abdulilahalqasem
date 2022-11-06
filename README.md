@@ -12,10 +12,6 @@
  
 - 🔭 I’m currently working on a **.** project.
 
-- 🤝 I’m currently looking for a full-time job.
-
-
-
 - 📫 How to reach me **alqasemabdulilah@gmail.com**
 
 <br/>
