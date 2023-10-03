@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning Machine Learning, Deep Learning and Data Science.
  
-- 🔭 I’m currently working on a **.** project.
+- 🔭 I’m currently working on a **supermarket_sales** project.
 
 - 📫 How to reach me **alqasemabdulilah@gmail.com**
 
