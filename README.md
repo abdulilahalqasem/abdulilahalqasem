@@ -2,6 +2,8 @@
 
 <h3 align="center"> A passionate about Machine Learning from Riyadh Saudi Arabia </h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulilahalqasem&label=Profile%20views&color=0e75b6&style=flat" alt="abdulilahalqasem" /> </p>
+
 <br/>
 
 <a target="_blank" align="center">
