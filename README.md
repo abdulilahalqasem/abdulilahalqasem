@@ -21,14 +21,14 @@
 
 <p align="center">
 <h3 align="left">Contact me:</h3>
- <div align="center"  class="icons-social" style="margin-left: 10px;">
+ <div align="left"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/abdulilah-alqasem-ba47b8213/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/abdulilahalqasem">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
  </div>
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="60" height="60"/> </a>	
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="java" width="60" height="60"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/> </a>
