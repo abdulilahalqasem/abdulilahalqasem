@@ -27,9 +27,6 @@
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/abdulilahalqasem">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
  </div>
-
-<br/>
-
 <p align="center">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="60" height="60"/> </a>	
 
@@ -54,3 +51,6 @@
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="mysql" width="60" height="60"/> </a>
 </p>
+<br/>
+
+
