@@ -18,15 +18,6 @@
 
 <br/>
 
-
-<p align="center">
-<h3 align="left">Contact me:</h3>
- <div align="left"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/abdulilah-alqasem-ba47b8213/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/abdulilahalqasem">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
- </div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="60" height="60"/> </a>	
@@ -42,6 +33,14 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="mysql" width="60" height="60"/> </a>
 </p>
 
+<p align="center">
+<h3 align="left">Connect with me:</h3>
+ <div align="left"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/abdulilah-alqasem-ba47b8213/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/abdulilahalqasem">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+ </div>
 <br/>
 
 
