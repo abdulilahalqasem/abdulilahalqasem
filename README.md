@@ -27,7 +27,7 @@
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/abdulilahalqasem">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
  </div>
- 
+<h3 align="left">Languages and Tools:</h3>
 <p align="center">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="60" height="60"/> </a>	
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="java" width="60" height="60"/> </a>
