@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning Machine Learning, Deep Learning and Data Science.
  
-- 🔭 I’m currently working on a **Diabetes** project.
+- 🔭 I’m currently working on a **Diabetes Prediction** project.
 
 - 📫 How to reach me **alqasemabdulilah@gmail.com**
 
